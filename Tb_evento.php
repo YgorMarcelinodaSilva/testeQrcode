@@ -48,7 +48,7 @@
             return $this->id_evento;
         }
 
-        function SetNmEvento($p_nmCliente)
+        function SetNmEvento($p_nmEvento)
         {
             $this->nm_evento = $p_nmEvento;
         }
