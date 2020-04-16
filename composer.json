@@ -1,0 +1,15 @@
+{
+    "name": "ygor9/teste-qrcode",
+    "description": "teste qrcode",
+    "authors": [
+        {
+            "name": "ygor",
+            "email": "ygor95125771@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "chillerlan/php-qrcode": "dev-master"
+    }
+    
+}
